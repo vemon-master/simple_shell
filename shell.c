@@ -6,7 +6,7 @@
  */
 
 void _printstring(char *str) {
-	if (str != NULL) {
-		printf("%s", str);
-	}
+if (str != NULL) {
+printf("%s", str);
+}
 }
